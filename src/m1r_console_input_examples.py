@@ -10,7 +10,7 @@ Authors: David Mutchler, Valerie Galluzzi, Mark Hays, Amanda Stouder,
 
 
 ########################################################################
-#done: 2.  Read and run this program.  Then do the following problems,
+# done: 2.  Read and run this program.  Then do the following problems,
 #   putting your answers RIGHT HERE IN THIS DOCUMENT.
 #
 #   1. Write a line of code that would input an INTEGER from the
